@@ -13,3 +13,7 @@ Third, Use 'openpyxl' module to access Excel and enter the information in pre-se
 Set the target path that you want the xlsx. file to be created in your computer in 'path' in the program.
 Then, if you want a different name of the file, modify the 'workbook.save()' lines in the program.
 Finally, run the program and enter the target words in the terminal. Press enter to quit.
+
+# Reference
+Special thanks to Free Dictionary API
+URL: https://dictionaryapi.dev/
